@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wemantanye.github.io/</id>
     <title>雩风的博客</title>
-    <updated>2020-02-14T08:01:11.126Z</updated>
+    <updated>2020-02-15T13:05:43.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wemantanye.github.io/"/>
     <link rel="self" href="https://wemantanye.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://wemantanye.github.io/images/avatar.png</logo>
     <icon>https://wemantanye.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 雩风的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[学习日-day3]]></title>
+        <id>https://wemantanye.github.io/post/xue-xi-ri-day3</id>
+        <link href="https://wemantanye.github.io/post/xue-xi-ri-day3">
+        </link>
+        <updated>2020-02-15T10:52:27.000Z</updated>
+        <content type="html"><![CDATA[<p>学习了turtle库和单片机基本构造，背了单词。🌅</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习日-day2]]></title>
         <id>https://wemantanye.github.io/post/xue-xi-ri-day2</id>
