@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufeng8.tech/</id>
     <title>雩风的博客</title>
-    <updated>2020-02-20T04:30:20.534Z</updated>
+    <updated>2020-02-20T05:21:01.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yufeng8.tech/"/>
     <link rel="self" href="https://yufeng8.tech/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://yufeng8.tech/images/avatar.png</logo>
     <icon>https://yufeng8.tech/favicon.ico</icon>
     <rights>All rights reserved 2020, 雩风的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[学习日day-4   ]]></title>
+        <id>https://yufeng8.tech/post/xue-xi-ri-day-4</id>
+        <link href="https://yufeng8.tech/post/xue-xi-ri-day-4">
+        </link>
+        <updated>2020-02-20T05:16:26.000Z</updated>
+        <content type="html"><![CDATA[<p>日期：2020/2/20<br>
+今天在github设置了自定义域名，对网站界面进行了设置。学习了重装系统以及每日单词量。😀</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习日-day3]]></title>
         <id>https://yufeng8.tech/post/xue-xi-ri-day3</id>
