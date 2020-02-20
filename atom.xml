@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wemantanye.github.io/</id>
+    <id>https://yufeng8.tech/</id>
     <title>雩风的博客</title>
-    <updated>2020-02-20T04:16:41.836Z</updated>
+    <updated>2020-02-20T04:30:20.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wemantanye.github.io/"/>
-    <link rel="self" href="https://wemantanye.github.io/atom.xml"/>
+    <link rel="alternate" href="https://yufeng8.tech/"/>
+    <link rel="self" href="https://yufeng8.tech/atom.xml"/>
     <subtitle>好好学习 天天向上</subtitle>
-    <logo>https://wemantanye.github.io/images/avatar.png</logo>
-    <icon>https://wemantanye.github.io/favicon.ico</icon>
+    <logo>https://yufeng8.tech/images/avatar.png</logo>
+    <icon>https://yufeng8.tech/favicon.ico</icon>
     <rights>All rights reserved 2020, 雩风的博客</rights>
     <entry>
         <title type="html"><![CDATA[学习日-day3]]></title>
-        <id>https://wemantanye.github.io/post/xue-xi-ri-day3</id>
-        <link href="https://wemantanye.github.io/post/xue-xi-ri-day3">
+        <id>https://yufeng8.tech/post/xue-xi-ri-day3</id>
+        <link href="https://yufeng8.tech/post/xue-xi-ri-day3">
         </link>
         <updated>2020-02-15T10:52:27.000Z</updated>
         <content type="html"><![CDATA[<p>学习了turtle库和单片机基本构造，背了单词。🌅</p>
@@ -21,18 +21,18 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[学习日-day2]]></title>
-        <id>https://wemantanye.github.io/post/xue-xi-ri-day2</id>
-        <link href="https://wemantanye.github.io/post/xue-xi-ri-day2">
+        <id>https://yufeng8.tech/post/xue-xi-ri-day2</id>
+        <link href="https://yufeng8.tech/post/xue-xi-ri-day2">
         </link>
         <updated>2020-02-14T07:56:18.000Z</updated>
         <content type="html"><![CDATA[<p>学习了如何使用免费的域名通过github和gridea进行博客的搭建。😀<br>
-<img src="https://wemantanye.github.io//post-images/1581667100427.jpg" alt="" loading="lazy"></p>
+<img src="https://yufeng8.tech//post-images/1581667100427.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://wemantanye.github.io/post/hello-gridea</id>
-        <link href="https://wemantanye.github.io/post/hello-gridea">
+        <id>https://yufeng8.tech/post/hello-gridea</id>
+        <link href="https://yufeng8.tech/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
